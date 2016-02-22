@@ -1,5 +1,5 @@
-$ kmeans -c 10 -i ~/benchmark/student.csv -v -o assignments.csv
+$ kmeans -c 10 -i student.csv -v -o assignments.csv
 
-$ kmeans -c 100 -i ~/benchmark/student.csv -v -o assignments.csv
+$ kmeans -c 100 -i student.csv -v -o assignments.csv
 
-$ kmeans -c 1000 -i ~/benchmark/student.csv -v -o assignments.csv
+$ kmeans -c 1000 -i student.csv -v -o assignments.csv
