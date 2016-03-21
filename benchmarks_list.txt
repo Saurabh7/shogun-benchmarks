@@ -1,0 +1,3 @@
+Decision tree: https://gist.github.com/Saurabh7/a25c3633cd39ee9259ed
+Kernel regressions: https://gist.github.com/Saurabh7/8d49a40ea333ec14e195
+hirerarchical clsutering: https://gist.github.com/Saurabh7/c69685498a6beeab8e7b
