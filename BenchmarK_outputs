@@ -1,0 +1,39 @@
+-------------------
+LARS :
+-------------------
+           mlpack    scikit  mlpy    shogun 
+diabetes        -  0.023511     -  0.013760 
+cosExp          -  0.435129     -  0.109848 
+arcene          -  0.808681     -  0.261690 
+madelon         -  1.100344     -  1.936961 
+
+-------------------
+SVR :
+-------------------
+                   scikit      shogun 
+diabetes         0.017914    0.024873 
+cosExp           0.005586    0.002809 
+TomsHardware   128.226224  133.479343 
+
+-------------------
+Hierarchical clustering :
+-------------------
+SIZE OF DATA  (5820, 33)
+Shogun : 3.01415801048
+Scikit: 1.0845348835
+
+SIZE OF DATA  (19075, 69)
+Shogun: 555.91812706
+scikit with connectivity matrix: 5.97757482529
+
+-------------------
+Decision Trees (CART):
+-------------------
+SHAPE OF DATA: (7612, 618)
+scikit :3.34869813919
+Shogun cart: 1979.01528001
+
+
+-------------------
+KNN : https://github.com/Saurabh7/shogun-benchmarks/blob/master/notebooks/KNN.ipynb
+-------------------
