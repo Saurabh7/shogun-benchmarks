@@ -33,6 +33,19 @@ SHAPE OF DATA: (7612, 618)
 scikit :3.34869813919
 Shogun cart: 1979.01528001
 
+------------------------
+PCA, SHOGUN EPCA METHOD=AUTO
+------------------------
+
+                   matlab      scikit  mlpy      shogun  weka 
+iris                     -    0.330054     -    0.297558     - 
+wine                     -    0.001997     -    0.025244     - 
+diabetes                 -    0.001776     -    0.039810     - 
+arcene                   -    0.523856     -    3.258376     - 
+madelon                  -    1.996318     -    7.529948     - 
+corel-histogram          -    0.370633     -    5.079996     - 
+isolet                   -   10.001879     -   45.546458     - 
+mnist                    -  148.911344     -  387.157583     - 
 
 -------------------
 KNN : https://github.com/Saurabh7/shogun-benchmarks/blob/master/notebooks/KNN.ipynb
