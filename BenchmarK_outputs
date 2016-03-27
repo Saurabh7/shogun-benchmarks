@@ -50,3 +50,5 @@ mnist                    -  148.911344     -  387.157583     -
 -------------------
 KNN : https://github.com/Saurabh7/shogun-benchmarks/blob/master/notebooks/KNN.ipynb
 -------------------
+
+NOTE: Shogun pca benchmark  is producing very different results compared to normal python scripts , investigating.
